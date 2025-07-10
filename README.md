@@ -112,5 +112,5 @@ Distributed as-is. You are free to deploy, use, or extend this project.
 
 ## ✨ Author
 
-Created by **[Your Name]**.  
+Created by **Andrew Schallert**.  
 Questions or contributions welcome!
