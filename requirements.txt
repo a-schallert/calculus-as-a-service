@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sympy
+numpy
+matplotlib
+httpx
+pytest
+pytest-asyncio
